@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
 # ----- CONFIGURATION -----
-USERNAME = "vasusaysss"       # Replace with the target public account's username
+USERNAME = "USERNAME"       # Replace with the target public account's username
 LIKES_THRESHOLD = 500         # Minimum likes threshold to filter
 SCROLL_PAUSE_TIME = 2         # Seconds to wait after scrolling
 PAGE_LOAD_WAIT = 5            # Seconds to wait for a reel page to load
